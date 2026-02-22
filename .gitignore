@@ -146,3 +146,8 @@ cython_debug/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# 忽略脚本自动收纳进来的其他无关项目文件夹
+GitHub/
+python/
+Python-Fast-Track/
